@@ -11,9 +11,9 @@ title                    : "Walner M. dos Santos"
 title_separator          : "-"
 name                     : &name "Walner M. dos Santos"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://walnerm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "walnerm/walnerm.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : MendoncaWalner
 facebook:
   username               : walnerm
   app_id                 :
@@ -65,8 +65,8 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Walner M. dos Santos # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
@@ -83,9 +83,9 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Student at IMPA"
   location         : "Rio de Janeiro, Brazil"
-  employer         :
+  employer         : "IMPA"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "walner@impa.br"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   github           : "WalnerM"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :  "walnermendonca"
   lastfm           :
   linkedin         :
   orcid            : # "http://orcid.org/yourorcidurl"
@@ -250,7 +250,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
